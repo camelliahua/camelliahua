@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @camelliahua
 - 👀 I’m interested in beautiful things
-- 🌱 I’m currently learning SQL Server and System Design
+- 🌱 I’m currently learning AI and System Design
 - 💞️ I’m looking to collaborate on anything I am interested in
-- 📫 Please leave me message
+- 📫 Please leave me messages
 
 <!---
 camelliahua/camelliahua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
